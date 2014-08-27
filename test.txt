@@ -1,1 +1,2 @@
 te
+now I add a new line and see how the code behaves
